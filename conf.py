@@ -107,6 +107,7 @@ html_theme_options = {
     'collapse_navigation': False,
     'sticky_navigation': True,
     'navigation_depth': -1,
+    'prev_next_buttons_location': 'top',
 }
 
 html_context = {
